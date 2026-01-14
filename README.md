@@ -53,7 +53,7 @@ Pastikan perangkat telah terinstal:
 ## 🖼️ Preview Tampilan
 
 **Login Page**  
-![Dashboard](https://imgur.com/a/2RT1f69.png)
+![Dashboard](https://imgur.com/a/2RT1f69)
 
 **Dashboard**  
 ![Dashboard](https://i.imgur.com/IOgIyIi.png)
