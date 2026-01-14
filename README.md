@@ -46,32 +46,7 @@ Pastikan perangkat telah terinstal:
 - CRUD Barang 
 - CRUD Kategori 
 - Laporan PDF
-- Halaman Logout  
-
----
-
-## 🖼️ Preview Tampilan
-
-**Login Page**  
-![Dashboard](https://imgur.com/a/WdUkd4w)
-
-**Dashboard**  
-![Dashboard](https://i.imgur.com/IOgIyIi.png)
-
-**Daftar Pengguna**  
-![Pengguna](https://i.imgur.com/e3rkQ45.png)
-
-**Daftar Kategori Buku**  
-![Kategori Buku](https://i.imgur.com/WVEAyKi.png)
-
-**Daftar Buku**  
-![Buku](https://i.imgur.com/3Jarbbv.png)
-
-**Daftar Peminjam Buku**  
-![Peminjam](https://i.imgur.com/4z18siI.png)
-
-**Histori Peminjaman Buku**  
-![Histori](https://i.imgur.com/nzqiVSv.png)
+- Halaman Logout
 
 ---
 
@@ -100,18 +75,7 @@ Ubah nilai APP_NAME sesuai nama aplikasi
    ```bash
    php artisan serve
 
-## 🔐 Akun Default Login
-Administrator Perpustakaan
-Email    : admin@mail.com
-Password : secret
 
-Operator Perpustakaan
-Email    : operator@mail.com
-Password : secret
-
-Anggota Perpustakaan
-Email    : anggota@mail.com
-Password : secret
 
 ## 🛠️ Dibuat Menggunakan
 
